@@ -20,7 +20,6 @@
 
  - sal a gosto
 
-
 ### MODO DE PREPARO
 
 1. Fritar a cebola na manteiga até dourar.
