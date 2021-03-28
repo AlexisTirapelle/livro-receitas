@@ -1,6 +1,6 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 
-###INGREDIENTES
+### INGREDIENTES
 
  - 1/2 kg de peito de frango em tiras
 
@@ -21,7 +21,7 @@
  - sal a gosto
 
 
-###MODO DE PREPARO
+### MODO DE PREPARO
 
 1. Fritar a cebola na manteiga até dourar.
 
